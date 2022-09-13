@@ -8,3 +8,6 @@
 ## Chair Image Output 
 
 ![Chair1_Image](https://user-images.githubusercontent.com/98689629/190001163-331a51fb-75c7-482a-b6e8-2e99faad47fb.jpg)
+
+
+### CUP Image Output
