@@ -11,3 +11,6 @@
 
 
 ### CUP Image Output
+
+
+![Cup_image](https://user-images.githubusercontent.com/98689629/190002895-23da5f57-3430-41bd-9a1b-6ad01ea33732.jpg)
